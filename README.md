@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Netmask is built with semplicity in mind, it only requires a base installation of python 3.6 or above.
+Netmask is built with simplicity in mind, it only requires a base installation of python 3.6 or above.
 
 ### Installation
 
