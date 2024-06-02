@@ -12,17 +12,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/josephdove/netmask">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Netmask</h3>
 
   <p align="center">
-    Self-Hostable Network Tunneling
-    <br />
-    <a href="https://github.com/josephdove/netmask"><strong>Explore the docs »</strong></a>
-    <br />
+    A TCP/UDP self-hostable network tunneling solution that supports IPv4 and IPv6
     <br />
     <a href="https://github.com/josephdove/netmask/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
