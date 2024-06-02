@@ -96,7 +96,7 @@ Key Arguments for netmasks:
 listener4: This is the IPv4 address to bind to, if none, specify "-". (EXAMPLE: 0.0.0.0)<br>
 listener6: This is the IPv6 address to bind to, if none, specify "-". (EXAMPLE: ::)<br>
 
-<br><br>
+<br>
 
 Netmask Client (netmaskc):
 The client component, netmaskc, is used to establish a connection to the netmasks server and create tunnels. It forwards traffic from the local machine to the server, which then handles the routing to the intended destination.
