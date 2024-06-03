@@ -109,7 +109,7 @@ Key Arguments for netmaskc:
 protocol: Can either be "tcp" or "udp", this specifies the protocol used while binding.<br>
 port: This is the port on the current host that we want to forward. (EXAMPLE: 443)<br>
 ipVersion: This is the IP version we want to use, must be either 4 or 6.<br>
-server: This is the server we want to connect to (EXAMPLE: 127.0.0.1:1024)<br>
+server: This is the server we want to connect to. *MAKE SURE TO SPECIFY THE PORT* (EXAMPLE: 127.0.0.1:1024)<br>
 
 ## Roadmap
 
